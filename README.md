@@ -19,7 +19,7 @@ This program uses YouTube Music for music downloads, there is a chance of songs 
 > Users are responsible for complying with YouTube Music and Spotify's terms of service
 
 ## Usage
-This program requires **ffmpeg** to work. Install [ffmpeg](https://ffmpeg.org/download.html) and add the folder where `ffmpeg.exe` is located to PATH/system environment variables.
+This program requires **ffmpeg** to work. Install [ffmpeg](https://ffmpeg.org/download.html) and add the folder where `ffmpeg` is located to PATH/system environment variables.
 
 
 ### Installation
